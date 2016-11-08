@@ -1,5 +1,5 @@
-# material-design-inkscape
-The complete Material Design Color Palette for Inkscape
+# Material Design Color Palette for Inkscape
+The complete Material Design Color Palette from material.io for Inkscape.
 
 To use the Color Palette, download and copy the .gpl File to:
   * %APPDATA%\inkscape\palettes\ on Windows
